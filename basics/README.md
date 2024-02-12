@@ -7,4 +7,5 @@ Task5 - Display current directory contents in long format,with user and group ID
 Task6 - Create a script that creates a directory named my_first_directory in the /tmp/ directory
 Task7 - Move the betty file in my_first_directory directory
 Task8 - Delete betty file
-Task9 - Delete /tmp/my_first_directory/ 
+Task9 - Delete /tmp/my_first_directory/
+Task10 - change the working directory to the previous 
