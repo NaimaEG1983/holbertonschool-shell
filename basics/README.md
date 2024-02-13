@@ -12,4 +12,7 @@ Task10 - change the working directory to the previous
 Task11 - list all files including hidden in current, parent and boot directory
 Task12 - print the type of the file named iamafile
 Task13 - Create a symbolic link in the current working directory
-Task14 - Copy all HTML files from current to parent directory 
+Task14 - Copy all HTML files from current to parent directory
+Task15 - Move all files beginning with uppercases to directory /tmp/u
+Task16 - Delete all files in the current directory ending by caracter ~
+Task17 - Create in the current directory directories  
