@@ -11,5 +11,5 @@ Task9 - Delete /tmp/my_first_directory/
 Task10 - change the working directory to the previous
 Task11 - list all files including hidden in current, parent and boot directory
 Task12 - print the type of the file named iamafile
-Task13 - Create a symobolic link in the current working directory
+Task13 - Create a symbolic link in the current working directory
 Task14 - Copy all HTML files from current to parent directory 
