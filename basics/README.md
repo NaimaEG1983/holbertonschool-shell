@@ -9,4 +9,5 @@ Task7 - Move the betty file in my_first_directory directory
 Task8 - Delete betty file
 Task9 - Delete /tmp/my_first_directory/
 Task10 - change the working directory to the previous
-Task11 - list all files including hidden in current, parent and boot directory 
+Task11 - list all files including hidden in current, parent and boot directory
+Task12 - print the type of the file named iamafile 
