@@ -9,7 +9,7 @@ Task7 - Add execution permissions to everybody
 Task8 - Set all permissions to users
 Task9 - Set a mode 
 Task10 - Set the same mode
-Task11 - Set permissions recursively
+Task11 - Set permissions to the current directory and subdirectories
 Task12 - Create directory with permissions
 Task13 - Change groug
 Task14 - Change owner and group recursively for all files and directories
