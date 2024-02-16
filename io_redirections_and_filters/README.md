@@ -11,4 +11,5 @@ Task9 - Duplicate last line
 Task10 - Delete js files recursively
 Task11 - Delete directories and subdirectories
 Task12 - Print 10 newest files
-Task13 - Print uniq and sorted words 
+Task13 - Print uniq and sorted words
+Task14 - Print lines containing a pattern 
