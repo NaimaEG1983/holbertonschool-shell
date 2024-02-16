@@ -9,4 +9,4 @@ Task7 - Create a file named with special caracters
 Task8 - Print current state of directory 
 Task9 - Duplicate last line
 Task10 - Delete js files recursively
-Task11
+Task11 - Delete directories and subdirectories
