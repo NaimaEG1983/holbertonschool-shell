@@ -1,2 +1,2 @@
 #!/bin/bash
-sed "s/Ac/Ze/g" #tr 'AZ' 'ce'
+tr 'AZ' 'ce'
