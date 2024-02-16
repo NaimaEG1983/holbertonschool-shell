@@ -10,3 +10,4 @@ Task8 - Print current state of directory
 Task9 - Duplicate last line
 Task10 - Delete js files recursively
 Task11 - Delete directories and subdirectories
+Task12 - Print 10 newest files 
