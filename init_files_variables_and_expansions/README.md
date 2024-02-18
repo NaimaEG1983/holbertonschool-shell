@@ -1,2 +1,8 @@
 Task0 'Create an alias'
 Task1 'Display name of current user'
+Task2 'Modify PATH by adding a directory'
+Task3 'Count the number of directories in PATH'
+Task4 'List of environment variables'
+Task5 'List of local and environment variables'
+Task6 'Create a local variable'
+Task7 'Create a global variable'
